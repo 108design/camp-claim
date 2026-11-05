@@ -1,0 +1,19 @@
+maintainers:
+  - github: VOOM108
+security-contact: andreas@108design.com
+labels: [fully-free]
+overrides:
+  local_supportdesk:
+    labels: [external-account, paid-service]
+exclude:
+  - auth_magiclink
+  - filter_genericotwo
+  - local_activityicons
+  - local_bulkinstall
+  - local_h5pbulkupload
+  - local_moveactivities
+  - local_sectionicons
+  - local_toastalerts
+  - mod_completionaggregator
+  - mod_upload
+  - tool_migratehvp2026
