@@ -17,4 +17,3 @@ exclude:
   - local_toastalerts
   - mod_completionaggregator
   - mod_upload
-  - tool_migratehvp2026

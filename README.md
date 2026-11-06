@@ -21,6 +21,12 @@ watch has applied the metadata.
 - [`local_sidenotes`](https://github.com/108design/moodle-local_sidenotes)
 - [`local_supportdesk`](https://github.com/108design/moodle-local_supportdesk)
 - [`mod_pdfworkspace`](https://github.com/108design/moodle-mod_pdfworkspace)
+- [`tool_migratehvp2026`](https://github.com/108design/moodle-tool_migratehvp2026)
+
+The H5P migration tool is included for maintainer accountability only. This claim
+does not publish a verified release or make it a supported Store product. Read
+the tool's [disclaimer](https://github.com/108design/moodle-tool_migratehvp2026/issues/1)
+before considering a migration.
 
 ## Disclosure labels
 
@@ -28,7 +34,7 @@ The default label is `fully-free`. Support Desk uses `external-account` and `pai
 
 ## Scope
 
-Plugins under the separate 108design source-available licence are excluded from this claim. The Generico contribution fork and the owner-use H5P migration tool are excluded as well. Each plugin retains its own licence and upstream attribution.
+Plugins under the separate 108design source-available licence are excluded from this claim. The Generico contribution fork is excluded as well. Each plugin retains its own licence and upstream attribution.
 
 CAMP applies this manifest to existing listings whose source repositories belong to 108design, including listings discovered later. The manifest has exclusions and per-plugin overrides; it does not implement a licence filter. Review and update it before another plugin is listed or its service requirements change.
 
