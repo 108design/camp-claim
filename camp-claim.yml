@@ -1,5 +1,6 @@
 maintainers:
   - github: VOOM108
+    name: 108design (Andreas Giesen)
 security-contact: andreas@108design.com
 labels: [fully-free]
 overrides:

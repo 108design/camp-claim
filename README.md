@@ -4,6 +4,11 @@
 
 The organisation claim is declared in [camp-claim.yml](camp-claim.yml).
 
+The maintainer display name is **108design (Andreas Giesen)**, linked to the
+GitHub account **VOOM108**. CAMP searches both fields, so the claimed plugins
+can be found under either `108design` or `VOOM108` after its daily manifest
+watch has applied the metadata.
+
 ## Included plugins
 
 - [`availability_courserating`](https://github.com/108design/moodle-availability_courserating)
