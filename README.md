@@ -30,7 +30,7 @@ before considering a migration.
 
 ## Disclosure labels
 
-The default label is `fully-free`. Support Desk uses `external-account` for optional guest tickets protected by Cloudflare Turnstile. Only administrators enabling that mode need a Cloudflare account and site/secret keys. The integration works with Turnstile Free. Standard tickets use Moodle accounts; optional Magic Link sign-in uses a separate free GPL plugin in the same Moodle site. No feature requires a paid plan, so `paid-service` is not declared. Required versus optional external dependencies are discussed in https://github.com/camp-registry/camp-docs/issues/5.
+The default label is `fully-free`. Support Desk uses `external-account` for optional guest tickets protected by Cloudflare Turnstile. Only administrators enabling that mode need a Cloudflare account and site/secret keys. The integration works with Turnstile Free. Standard tickets use Moodle accounts; optional Magic Link sign-in uses a separate free, activation-free auth_magiclink plugin in the same Moodle site. Magic Link is not GPL. No feature requires a paid plan, so `paid-service` is not declared. Required versus optional external dependencies are discussed in https://github.com/camp-registry/camp-docs/issues/5.
 
 ## Scope
 
