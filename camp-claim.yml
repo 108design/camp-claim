@@ -8,12 +8,20 @@ overrides:
     labels: [external-account]
 exclude:
   - auth_magiclink
+  - block_frontpage_menu
+  - enrol_storefront
+  - filter_frontpage_menu
   - filter_genericotwo
   - local_activityicons
   - local_bulkinstall
+  - local_frontpage
   - local_h5pbulkupload
+  - local_menubuilder
   - local_moveactivities
+  - local_scriptmanager
   - local_sectionicons
+  - local_storefront
   - local_toastalerts
   - mod_completionaggregator
+  - mod_frontpage
   - mod_upload
