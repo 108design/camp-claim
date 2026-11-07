@@ -30,7 +30,7 @@ before considering a migration.
 
 ## Disclosure labels
 
-The default label is `fully-free`. Support Desk uses `external-account` and `paid-service` to disclose its optional Cloudflare Turnstile integration. Turnstile requires a third-party account and API keys for guest ticket submission; signed-in ticket use works without that integration. `paid-service` follows CAMP’s current definition, which includes API-key-backed commercial services; it does not mean that Support Desk requires a paid subscription.
+The default label is `fully-free`. Support Desk uses `external-account` for optional guest tickets protected by Cloudflare Turnstile. Only administrators enabling that mode need a Cloudflare account and site/secret keys. The integration works with Turnstile Free. Standard tickets use Moodle accounts; optional Magic Link sign-in uses a separate free GPL plugin in the same Moodle site. No feature requires a paid plan, so `paid-service` is not declared. Required versus optional external dependencies are discussed in https://github.com/camp-registry/camp-docs/issues/5.
 
 ## Scope
 
