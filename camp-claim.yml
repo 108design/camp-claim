@@ -5,7 +5,7 @@ security-contact: andreas@108design.com
 labels: [fully-free]
 overrides:
   local_supportdesk:
-    labels: [external-account, paid-service]
+    labels: [external-account]
 exclude:
   - auth_magiclink
   - filter_genericotwo
